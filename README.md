@@ -1,9 +1,9 @@
 <figure>
     <!-- Image source can be a local file or a URL -->
-    <img src="robot_swarm.png" alt="Description of the image" width="500">
+    <img src="robot_swarm.png" alt="Description of the image" width="350">
     
     <!-- Caption for the figure -->
-    <figcaption>Caption describing the figure.</figcaption>
+    <figcaption>A swarm of robots (red) and their distance-induced communication network.  Blobs of oil are grey.</figcaption>
 </figure>
 
 
