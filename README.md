@@ -1,3 +1,12 @@
+<figure>
+    <!-- Image source can be a local file or a URL -->
+    <img src="robot_swarm.png" alt="Description of the image" width="500">
+    
+    <!-- Caption for the figure -->
+    <figcaption>Caption describing the figure.</figcaption>
+</figure>
+
+
 # Swarm-Induced Graph - Oil Spill Cleanup
 
 ## Overview
